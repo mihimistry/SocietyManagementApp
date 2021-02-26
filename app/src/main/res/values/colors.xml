@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E1AD01</color>
+    <color name="colorPrimaryDark">#AE8500</color>
+    <color name="colorAccent">#805300</color>
+
+    <color name="customCardBGGreen">#81C784</color>
+    <color name="customCardBGRed">#EF9A9A</color>
+    <color name="customCardBGPurple">#AD87F1</color>
+    <color name="customCardBGYellow">#CDC02F</color>
+
+    <color name="colorFormSplit">#34EF5C42</color>
+
+    <color name="floatingColor">#8D6E63</color>
+    <color name="fontColor">#795548</color>
+
+    <color name="light_gray">#F1F1F1</color>
+</resources>

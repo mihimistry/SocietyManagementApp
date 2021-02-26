@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/society_update"
+        android:title="Update" />
+
+    <item
+        android:id="@+id/society_block"
+        android:title="Block" />
+
+    <item
+        android:id="@+id/society_unblock"
+        android:title="Unblock" />
+
+    <item android:id="@+id/society_delete"
+        android:title="Delete"/>
+
+</menu>

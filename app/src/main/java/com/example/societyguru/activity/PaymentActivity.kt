@@ -19,9 +19,9 @@ class PaymentActivity : AppCompatActivity() {
     private val paymentParamBuilder = PayUmoneySdkInitializer.PaymentParam.Builder()
     private var paymentParam: PayUmoneySdkInitializer.PaymentParam? = null
 
-    private val merchantKey = "your Merchant key"
-    private val salt = "your Merchant salt"
-    private val merchantId = "your merchant id"
+    private val merchantKey = "YOUR_MERCHANT_KEY"
+    private val salt = "YOUR_MERCHANT_SALT"
+    private val merchantId = "YOUR_MERCHANT_ID"
     private var transactionId = "text123456"
     private var amount = ""
     private var charges = ""
